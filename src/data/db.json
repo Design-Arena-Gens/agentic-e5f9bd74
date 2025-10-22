@@ -1,0 +1,94 @@
+
+{
+  "services": [
+    {
+      "title": "Design & Branding",
+      "description": "Eye-catching visuals capture attention and make your brand memorable.",
+      "subServices": ["Social media posts", "Marketing graphics", "Brand visuals"]
+    },
+    {
+      "title": "Digital Marketing",
+      "description": "Reach more customers effectively and maximize ROI with AI-enhanced strategies.",
+      "subServices": ["Social media planning", "Ad optimization", "Marketing strategy"]
+    },
+    {
+      "title": "Resume Building",
+      "description": "Professionally crafted resumes increase interview call rates.",
+      "subServices": ["AI-enhanced resumes", "LinkedIn profile optimization"]
+    },
+    {
+      "title": "AI-Powered Productivity Tools",
+      "description": "Automate repetitive tasks to save time and focus on growth.",
+      "subServices": ["Chatbots", "Workflow automation", "Personalized AI tools"]
+    },
+    {
+      "title": "Web Development",
+      "description": "Modern, responsive websites engage users and drive conversions.",
+      "subServices": ["Websites for brands", "Portfolios", "Digital stores"]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "company": "Startup Inc.",
+      "quote": "S10 Digital Solutions transformed our online presence. Their AI tools saved us countless hours."
+    },
+    {
+      "name": "Jane Smith",
+      "company": "Creative Designs",
+      "quote": "The new website is not only beautiful but also highly functional. The team was a pleasure to work with."
+    },
+    {
+      "name": "Sam Wilson",
+      "company": "Freelancer",
+      "quote": "My resume got me 3 interviews in the first week. Highly recommended!"
+    }
+  ],
+  "pricing": [
+    {
+      "plan": "Starter",
+      "price": "$99",
+      "audience": "For individuals and small projects",
+      "features": ["1 Service", "Basic Support", "1-2 Week Delivery"]
+    },
+    {
+      "plan": "Professional",
+      "price": "$299",
+      "audience": "For small businesses and startups",
+      "features": ["Up to 3 Services", "Priority Support", "2-4 Week Delivery", "AI Strategy Session"]
+    },
+    {
+      "plan": "Business Pro",
+      "price": "Custom",
+      "audience": "For established businesses with custom needs",
+      "features": ["All Services", "Dedicated Support", "Ongoing Collaboration", "Full AI Integration"]
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "E-commerce Website",
+      "description": "A modern e-commerce platform for a local fashion brand.",
+      "image": "/portfolio1.jpg",
+      "link": "#"
+    },
+    {
+      "title": "AI Chatbot Integration",
+      "description": "An AI-powered chatbot for a customer service company.",
+      "image": "/portfolio2.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Brand Identity Redesign",
+      "description": "A complete brand overhaul for a tech startup.",
+      "image": "/portfolio3.jpg",
+      "link": "#"
+    }
+  ],
+  "partners": [
+    { "name": "Partner 1", "logo": "/logo1.svg" },
+    { "name": "Partner 2", "logo": "/logo2.svg" },
+    { "name": "Partner 3", "logo": "/logo3.svg" },
+    { "name": "Partner 4", "logo": "/logo4.svg" },
+    { "name": "Partner 5", "logo": "/logo5.svg" }
+  ]
+}
